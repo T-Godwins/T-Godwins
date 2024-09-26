@@ -5,4 +5,4 @@ I am currently a Data and Information Fellow at Wofford College's Career Center,
 - **Programming Languages:** Python, R, C++
 - **Data Analysis Tools:** SQL, Tableau, Microsoft Excel
 - **Other Tools:** Microsoft PowerPoint, Adobe Photoshop
-- **Certifications:** Currently pursuing AWS Cloud Practitioner certification
+- **Certifications:** AWS Certified Cloud Practitioner (2024)
